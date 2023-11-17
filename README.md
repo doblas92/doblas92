@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 About me 
+
+- 📚 Currently studying for a degree in cybersecurity at the UEM.
+- 🔭 Currently working in IT consulting as ABAP developer.
+- 🌱 Learning to develop with the Angular framework
 
 <!--
 **doblas92/doblas92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
